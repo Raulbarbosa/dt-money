@@ -47,6 +47,30 @@
       "category": "Alimentação",
       "price": 80,
       "createdAt": "2024-03-29T15:33:45.530Z"
+    },
+    {
+      "category": "vestimenta",
+      "description": "Compra de Sapato",
+      "price": 150,
+      "type": "outcome",
+      "createdAt": "2024-04-16T16:11:10.112Z",
+      "id": 7
+    },
+    {
+      "category": "Despesas",
+      "description": "Conta de energia",
+      "price": 100,
+      "type": "outcome",
+      "createdAt": "2024-04-16T16:13:22.854Z",
+      "id": 8
+    },
+    {
+      "category": "Despesas",
+      "description": "Conta de água",
+      "price": 80,
+      "type": "outcome",
+      "createdAt": "2024-04-16T16:35:36.997Z",
+      "id": 9
     }
   ]
 }
